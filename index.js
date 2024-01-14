@@ -6,7 +6,7 @@ console.log('██╔══██║╚════██║██╔═══�
 console.log('██║  ██║███████║██║     ███████║    ██████╔╝╚██████╔╝   ██║')
 console.log('╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝    ╚═════╝  ╚═════╝    ╚═╝ ')
 console.log('                                      developer by allec_vn')
-console.log('                                      the new version 2.0.0(TS version)')
+console.log('                                      the new version 1.9.9(JS version)')
 console.log('[database] database check...')
 
 img_url = 'https://cdn.discordapp.com/banners/988668399850762280/a_a9b8fb94574f51f0411b48b0e5d731a6.gif?size=512';
