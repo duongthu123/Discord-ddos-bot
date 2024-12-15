@@ -1,6 +1,7 @@
 # Discord-ddos-bot
 Bot discord đc làm để đót bằng mấy command!
 ![image](https://github.com/user-attachments/assets/761f58c4-faa8-4d9c-b596-72684bbc09c6)
+
 các command có sẳn: 
 - /add-user
 - /attack
