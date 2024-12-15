@@ -1,1 +1,0 @@
-#ko có phần nhập reg key đâu muốn liên hệ discord: @allec_vn
