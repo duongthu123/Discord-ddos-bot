@@ -16,4 +16,5 @@ các command có sẳn:
 - /off
 - /get-ket
 - /key
+
 Bot Dùng API layer4/7 và config ở config.json. free user dùng link của link1s.
